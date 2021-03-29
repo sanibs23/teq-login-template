@@ -103,5 +103,5 @@ Vue.component("login-page", {
  * Mount the vue app
  */
 new Vue({
-  el: "#app",
+  el: "#app"
 });
